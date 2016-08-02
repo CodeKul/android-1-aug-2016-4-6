@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection/collection.iml" filepath="$PROJECT_DIR$/.idea/modules/collection/collection.iml" group="collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection/collection_main.iml" filepath="$PROJECT_DIR$/.idea/modules/collection/collection_main.iml" group="collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection/collection_test.iml" filepath="$PROJECT_DIR$/.idea/modules/collection/collection_test.iml" group="collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics/generics.iml" filepath="$PROJECT_DIR$/.idea/modules/generics/generics.iml" group="generics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics/generics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/generics/generics_main.iml" group="generics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics/generics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/generics/generics_test.iml" group="generics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inner-class.iml" filepath="$PROJECT_DIR$/.idea/modules/inner-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inner-class_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inner-class_main.iml" group="inner-class" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inner-class_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inner-class_test.iml" group="inner-class" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" group="java-brushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" group="java-brushup" />
+    </modules>
+  </component>
+</project>

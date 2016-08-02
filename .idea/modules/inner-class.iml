@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="inner-class" external.linked.project.path="$MODULE_DIR$/../../inner-class" external.root.project.path="$MODULE_DIR$/../../inner-class" external.system.id="GRADLE" external.system.module.group="com.codekul.android52" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../inner-class">
+      <excludeFolder url="file://$MODULE_DIR$/../../inner-class/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../inner-class/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
